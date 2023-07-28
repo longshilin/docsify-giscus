@@ -1,4 +1,4 @@
-# docsify-giscus
+# docsify-giscus-new
 docsify giscus plugin，集成giscus评论插件！
 
 [![npm](https://img.shields.io/npm/v/docsify-plugin-toc.svg?style=flat-square)](https://www.npmjs.com/package/docsify-giscus)
@@ -15,18 +15,17 @@ docsify giscus plugin，集成giscus评论插件！
     <script>
     window.$docsify = {
       giscus:{
-        repo: "mg0324/docsify-note-01",
-        repoId: "R_kgDOI4bELQ",
-        category: "Announcements",
-        categoryId: "DIC_kwDOI4bELc4CT_Su",
-        mapping: "url",
-        reactionsEnabled: "0",
-        strict: "1",
-        emitMetadata: "0",
-        inputPosition: "bottom",
-        theme: "light",
+        repo: "longshilin/w",
+        repoId: "R_kgDOwvLA",
+        categoryId: "DIC_kwDOKAwv4CYMOU",
+        mapping: "pathname",
+        strict: "0",
+        reactionsEnabled: "1",
+        emitMetadata: "1",
+        inputPosition: "top",
+        theme: "preferred_color_scheme",
         lang: "zh-CN",
-        loading: "lazy"
+        loading: "lazy",
       },
     }
     </script>
@@ -36,6 +35,6 @@ docsify giscus plugin，集成giscus评论插件！
 
     ```html
     <!-- giscus评论  -->
-    <link rel="stylesheet" href="https://unpkg.com/docsify-giscus@1.0.0/dist/giscus.css">
-    <script src="https://unpkg.com/docsify-giscus@1.0.0/dist/docsify-giscus.min.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/docsify-giscus-new@1.0.0/dist/giscus.css">
+    <script src="https://unpkg.com/docsify-giscus-new@1.0.0/dist/docsify-giscus.min.js"></script>
     ```
