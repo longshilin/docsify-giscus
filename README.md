@@ -1,9 +1,10 @@
 # docsify-giscus-new
 docsify giscus plugin，集成giscus评论插件！
 
-[![npm](https://img.shields.io/npm/v/docsify-plugin-toc.svg?style=flat-square)](https://www.npmjs.com/package/docsify-giscus)
+[![npm](https://img.shields.io/npm/v/docsify-giscus-new.svg?style=flat-square)](https://www.npmjs.com/package/docsify-giscus-new)
 
-![示例](demo.png)
+![image](https://github.com/longshilin/docsify-giscus-new/assets/18352884/bab5c816-dba3-4094-939e-f3a5000abad1)
+
 
 
 ## Usage
@@ -35,6 +36,6 @@ docsify giscus plugin，集成giscus评论插件！
 
     ```html
     <!-- giscus评论  -->
-    <link rel="stylesheet" href="https://unpkg.com/docsify-giscus-new@1.1.0/dist/giscus.css">
-    <script src="https://unpkg.com/docsify-giscus-new@1.1.0/dist/docsify-giscus.min.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/docsify-giscus-new@1.2.0/dist/giscus.css">
+    <script src="https://unpkg.com/docsify-giscus-new@1.2.0/dist/docsify-giscus.min.js"></script>
     ```
