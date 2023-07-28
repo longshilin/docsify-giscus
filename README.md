@@ -35,6 +35,6 @@ docsify giscus plugin，集成giscus评论插件！
 
     ```html
     <!-- giscus评论  -->
-    <link rel="stylesheet" href="https://unpkg.com/docsify-giscus-new@1.0.0/dist/giscus.css">
-    <script src="https://unpkg.com/docsify-giscus-new@1.0.0/dist/docsify-giscus.min.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/docsify-giscus-new@1.0.1/dist/giscus.css">
+    <script src="https://unpkg.com/docsify-giscus-new@1.0.1/dist/docsify-giscus.min.js"></script>
     ```
